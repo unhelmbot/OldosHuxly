@@ -1,2 +1,2 @@
 # OldosHuxly
-its my directories for work on Python
+it's my directories for work on Python
